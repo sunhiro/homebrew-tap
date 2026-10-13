@@ -4,7 +4,7 @@ class Vcompress < Formula
   desc "Smart hardware-accelerated video compression engine with VMAF quality gates"
   homepage "https://github.com/sunhiro/vcompress"
   url "https://github.com/sunhiro/vcompress/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "250801dcdac1c14207aaa6c3e9320a480d86a36157d822b4c65ad3a5faf61c09"
+  sha256 "bad9ada30785408c00df2e1cc4e693dbb0941d064041cffa85423151d59c23a7"
   license "MIT"
 
   depends_on "ffmpeg"
